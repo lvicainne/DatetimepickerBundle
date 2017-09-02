@@ -1,6 +1,6 @@
 {
     "name": "lvicainne/datetimepicker-bundle",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Symfony bundle for Bootstrap DateTime picker",
     "keywords": ["symfony", "bootstrap", "bundle", "picker", "datepicker", "timepicker"],
     "type": "symfony-bundle",
@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "symfony/framework-bundle": ">=2.0 <3.2",
+        "symfony/framework-bundle": ">=2.0 <4.0",
         "symfony/symfony": ">=2.0 <4.0"
     },
     "autoload":     {
